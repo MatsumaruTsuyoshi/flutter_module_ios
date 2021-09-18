@@ -55,5 +55,12 @@ Flutterモジュールを作成したら、Xcodeのプロジェクトファイ�
     let flutterViewController = FlutterViewController(engine: flutterEngine, nibName: nil, bundle: nil);
     present(flutterViewController, animated: true, completion: nil)
 
+## 参考にしたもの
+https://flutter.dev/docs/development/add-to-app/ios/project-setup
 
+https://medium.com/flawless-app-stories/how-to-add-flutter-modules-to-native-ios-project-and-test-it-on-codemagic-ae3c09de7a3b
+
+https://itome.team/blog/2019/12/flutter-advent-calendar-day11/
+
+https://qiita.com/jamestong/items/50dd0977a76e83bad280#12-ios
 
